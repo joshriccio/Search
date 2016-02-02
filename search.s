@@ -208,7 +208,7 @@ newLinesLoopEnd:
          addiu $sp, $sp, 24      # restore stack pointer of caller
          jr    $ra               # return to caller
 
-# Your code goes below this line
+# Witten by Joshua Riccio
 
 .data
 searchlevel:
